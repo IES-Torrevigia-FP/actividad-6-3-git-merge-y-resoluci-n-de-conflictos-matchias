@@ -1,0 +1,8 @@
+8784480 (HEAD -> main) Resuelve conflicto en línea 2 combinando ambas versiones
+bb15f06 Modifica línea 2 en main
+cdbe436 (version-alternativa) Modifica línea 2 en rama alternativa
+0f78de8 (capitulo-1) Añade línea para el capítulo 1
+b253a6a Crea historia inicial en main
+a07e701 (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commi
+Primero abrí el archivo con el conflicto, eliminé los marcadores <<<<<<<, =======, >>>>>>> y decidí combinar ambas versiones en una sola línea. Después añadí el archivo con git add y finalicé el merge con git commit.

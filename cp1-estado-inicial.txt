@@ -1,0 +1,6 @@
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-3-git-merge-y-resoluci-n-de-conflictos-matchias$ git branch
+git log --oneline
+* main
+b253a6a (HEAD -> main) Crea historia inicial en main
+a07e701 (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit

@@ -1,0 +1,11 @@
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-3-git-merge-y-resoluci-n-de-conflictos-matchias$ git merge capitulo-1
+Actualizando b253a6a..0f78de8
+Fast-forward
+ historia.txt | 1 +
+ 1 file changed, 1 insertion(+)
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-3-git-merge-y-resoluci-n-de-conflictos-matchias$ git log --oneline
+0f78de8 (HEAD -> main, capitulo-1) Añade línea para el capítulo 1
+b253a6a Crea historia inicial en main
+a07e701 (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commi
+Un merge sin conflicto es cuandoit puede unir los cambios automáticamente porque no hay modificaciones en las mismas líneas.
